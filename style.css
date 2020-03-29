@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 100px;
+}
+.background{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+.card p{
+    color: gray;
+}
+.categories img{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
